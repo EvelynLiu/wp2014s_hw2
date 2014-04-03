@@ -1,0 +1,12 @@
+header{
+	background: url('img/vintage_bike-wallpaper-1280x800.jpg')no-repeat;
+	height: 250px;
+	width: 100%;
+}
+.main-header__headshot img{
+	height: 150px;
+	width: 150px;
+	border: 6px solid white;
+	margin-left: 40px;
+	margin-top: 30px;
+}
